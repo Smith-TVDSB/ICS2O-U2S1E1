@@ -1,4 +1,4 @@
-# Template for Python Exercises
+# Unit 2 - Section 1: Exercise 1
 This example project is written in Python, and tested with pytest.
 
 ### The assignment
