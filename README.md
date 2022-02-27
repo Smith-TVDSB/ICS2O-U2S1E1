@@ -2,13 +2,11 @@
 This example project is written in Python, and tested with pytest.
 
 ### The assignment
-The tests are failing right now because the method isn't outputting the correct string. Fixing this up will make the tests green.
+Make a program that takes in one number then outputs the following:  
 
-### Setup command
-`sudo -H pip3 install pytest`
-
-### Run command
-`pytest`
+The number is between 5 and 15: (True/False)
+The number is either less than 7 or greater than 13: (True/False)
+The number is not 9: (True/False)
 
 ### Notes
-- pip's install path is not included in the PATH var by default, so without installing via `sudo -H`, pytest would be unaccessible.
+The program should output True at the end if the statement is true, or False if the statement is false.
